@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Filme',
+    'Qual é o nome do vilão de 101 dálmatas?',
+    'Cruela'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Filme',
+    'Qual ator protagoniza o filme Missão Impossível?',
+    'Tom Cruise'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Famoso',
+    'Qual atriz interpretou Hermione Granger na franquia Harry Potter?',
+    'Emma Watson'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Filme',
+    'Qual foi o primeiro longa metragem animado lançado pela Disney?',
+    'Branca de Neve e os 7 anões'
 )
